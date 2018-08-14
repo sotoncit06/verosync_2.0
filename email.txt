@@ -1,0 +1,166 @@
+------=_Part_38_691911518.1502089541838
+Content-Type: multipart/related; 
+	boundary="----=_Part_39_332934521.1502089541838"
+
+------=_Part_39_332934521.1502089541838
+Content-Type: text/html;charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+        "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="en">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="initial-scale=1.0">
+    <meta name="format-detection" content="telephone=no">
+    <style type="text/css">
+
+        /* Resets: see reset.css for details */
+        .ReadMsgBody { width: 100%; background-color: #ebebeb;}
+        .ExternalClass {width: 100%; background-color: #ebebeb;}
+        .ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass font, .ExternalClass td, .ExternalClass
+        div {line-height:100%;}
+        body {-webkit-text-size-adjust:none; -ms-text-size-adjust:none;}
+        body {margin:0; padding:0;}
+        table {border-spacing:0;}
+        table td {border-collapse:collapse;}
+        .yshortcuts a {border-bottom: none !important;}
+
+        a.button:hover{
+        background-color: #3276b1 !important;
+        border-color: #285e8e !important;
+        }
+
+
+        /* Constrain email width for small screens */
+        @media screen and (max-width: 600px) {
+        table[class="container"] {
+        width: 95% !important;
+        }
+        }
+
+        /* Give content more room on mobile */
+        @media screen and (max-width: 480px) {
+        td[class="container-padding"] {
+        padding-left: 12px !important;
+        padding-right: 12px !important;
+        }
+        }
+
+        tr.hide {
+        display: none;
+        }
+
+    </style>
+</head>
+<body style="margin:0; padding:10px 0;" bgcolor="#ebebeb" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<br>
+<table border="0" width="100%" height="100%" cellpadding="0" cellspacing="0" bgcolor="#ebebeb">
+    <tr>
+        <td align="center" valign="top" bgcolor="#ffffff" style="background-color: #ebebeb;">
+            <table border="0" width="600" cellpadding="0" cellspacing="0" class="container" bgcolor="#ffffff">
+                <tr>
+                    <td class="container-padding" bgcolor="#ffffff"
+                        style="background-color: #ffffff; padding-left: 30px; padding-right: 30px; font-size: 14px; line-height: 20px; font-family: Helvetica, sans-serif; color: #333;">
+                        <!--<table class="header" cellspacing="0" cellpadding="0" border="0"
+                               style="width:100%; margin: 25px 0">
+                            <tbody>
+                            <tr>
+                                <td align="center" style="width:100%">
+                                    <img src="http://rupshav18/sync/logo" align="center" alt="VeroSync"/>
+                                </td>
+                            </tr>
+                            </tbody>
+                        </table>-->
+                        <table class="body" cellspacing="0" cellpadding="0" border="0"
+                               style="width:100%; margin: 15px 0">
+                            <tbody>
+                            <tr>
+                                <td style="font-family: Verdana, Arial, sans-serif; font-size: 14px;" align="left">
+                                    Hello,
+                                    <br><br>
+                                    Tanim1 has sent you a link for a folder named "Folder1"!
+                                    <br><br>
+                                    <table style="width: 100%" cellpadding="0" cellspacing="0">
+                                        <tbody>
+                                        <tr class="hide">
+                                            <td width="10" bgcolor="#DDDDDD"></td>
+                                            <td width="10" bgcolor="#f2f2f2"></td>
+                                            <td bgcolor="#f2f2f2"
+                                                style="font-family: Verdana, Arial, sans-serif; font-size: 14px;">
+                                                <br>
+                                                
+                                                <br>
+                                            </td>
+                                            <td width="10" bgcolor="#f2f2f2"></td>
+                                        </tr>
+                                        </tbody>
+                                    </table>
+                                    <br><br>
+                                    <center>
+                                        <div align="center">
+                                            <!--[if mso]>
+                                            <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml"
+                                                         xmlns:w="urn:schemas-microsoft-com:office:word" href="http://rupshav18/sync/r?i=Q&k=xjFRuJphqA7q5XD"
+                                                         style="height:40px;v-text-anchor:middle;width:300px;"
+                                                         arcsize="10%" stroke="f" fillcolor="#428bca">
+                                                <w:anchorlock/>
+                                                <center style="color:#ffffff;font-family:sans-serif;font-size:16px;font-weight:bold;">
+                                                    View folder
+                                                </center>
+                                            </v:roundrect>
+                                            <![endif]-->
+                                            <!--[if !mso]> <!-->
+                                            <table cellspacing="0" cellpadding="0">
+                                                <tr>
+                                                    <td align="center" width="200" height="40" bgcolor="#428bca"
+                                                        style="-webkit-border-radius: 5px; -moz-border-radius: 5px; border-radius: 5px; color: #ffffff; display: block;">
+                                                        <a href="http://rupshav18/sync/r?i=Q&k=xjFRuJphqA7q5XD"
+                                                           style="color: #ffffff; font-size:16px; font-weight: bold; font-family:sans-serif; text-decoration: none; line-height:40px; width:100%; display:inline-block">
+                                                            View folder
+                                                        </a>
+                                                    </td>
+                                                </tr>
+                                            </table>
+                                            <!-- <![endif]-->
+                                        </div>
+                                    </center>
+                                    <br><br>
+                                    If clicking on the button does not work, please copy and paste the following URL in
+                                    your web browser:
+                                    <br><br>
+                                    http://rupshav18/sync/r?i=Q&k=xjFRuJphqA7q5XD
+                                    <br><br>
+                                    <span style="color:gray;">Note: This email address cannot accept replies.</span>
+                                </td>
+                            </tr>
+                            </tbody>
+                        </table>
+                        <table class="footer" cellspacing="0" cellpadding="0" border="0"
+                               style="width:100%; margin: 15px 0">
+                            <tbody>
+                            <tr>
+                                <td align="right"
+                                    style="width:100% font-family: Verdana, Arial, sans-serif; font-size: 12px; color: #aaa;">
+                                    Shared using <a href="http://rupshav18/sync"
+                                                    style="font-size: 12px; color: #428bca; text-decoration: none">Verosync</a>
+                                </td>
+                            </tr>
+                            </tbody>
+                        </table>
+                    </td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+<br>
+<br>
+</body>
+</html>
+
+
+------=_Part_39_332934521.1502089541838--
+
+------=_Part_38_691911518.1502089541838--
+
